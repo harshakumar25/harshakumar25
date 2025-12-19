@@ -21,20 +21,33 @@ Cloud-Native • Web Security • Open Source
 ## 🧰 Tech Stack
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go">
-<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
 <img src="https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux">
 <img src="https://img.shields.io/badge/Kubestellar-Cloud--Native-purple?style=for-the-badge">
 
-</div>
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 
 ---
+
+</div>
+
+## 📊 GitHub Stats
+<div align = "center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshakumar25&layout=compact&theme=tokyonight)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=harshakumar25&show_icons=true&theme=tokyonight)
+
+</div>
 
 ## ⚙️ Technical Skills
 
@@ -68,6 +81,8 @@ Cloud-Native • Web Security • Open Source
 - Docker CLI  
 
 ---
+## 🧠 Tech Stack & Skills
+
 
 ## 📚 Currently Learning
 - Data Structures & Algorithms in Java  
