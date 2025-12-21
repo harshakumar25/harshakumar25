@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=26&pause=1000&color=22c55E&center=true&vCenter=true&width=600&lines=Cloud-+Native;Web+Security;Open+Source" alt="Typing SVG " />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=26&pause=1000&color=22c55E&center=true&vCenter=true&width=600&lines=Cloud+-+Native;Web+Security;Open+Source" alt="Typing SVG " />
 
 </p>
 <p align="center">
@@ -23,15 +23,49 @@
 
 ---
 
-### CONNECT WITH ME : 
+### 🌎 Connect With Me : 
 <p align="center">
   <a href="https://linkedin.com/in/kumar-harsh2025" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jhah1225@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=grey"/>
   </a>
 </p>
+
+### 🧑🏻‍💻 ABout Me 
+<table width="100%" align="center">
+<tr>
+
+<!-- LEFT SIDE : ABOUT ME -->
+<td width="60%" valign="top">
+
+## 👨‍💻 About Me
+
+- 🎓 **B.Tech** in Computer Science & Cybersecurity  
+- 🌍 **Open Source Contributor**   
+- 🔐 Exploring **Cybersecurity, DevSecOps & Cloud Security**  
+- 🤖 **AI/ML Enthusiast** — interested in intelligent systems  
+- 🚀 Focused on **building real-world projects**, not just tutorials  
+- 🤝 Open to **collaboration on open-source & innovative ideas**
+
+</td>
+
+<!-- RIGHT SIDE : TYPING PERSON -->
+<td width="40%" align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
+  width="280"
+  alt="Developer typing"
+/>
+
+</td>
+</tr>
+</table>
+
+
 
 
 ## 🧰 Tech Stack
@@ -40,24 +74,24 @@
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
 <img src="https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux">
 
-
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<br/>
 
 ### Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+<br/>
 
 ### DevOps & Clouds
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
-<img src="https://img.shields.io/badge/Kubestellar-Cloud--Native-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kubestellar-Cloud--Native-purple?style=for-the-badge"
 
-<p>
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" alt="Developer typing"/>
-</p>
 
 ---
 
