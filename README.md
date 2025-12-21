@@ -1,19 +1,24 @@
-<div align="center">
 
-<h1>👋 Harsh Kumar</h1>
+<h1 align="center">✨ Hi, I'm Harsh Kumar | Full-Stack Developer ✨</h1>
 
-<p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Open-+Source+Contributor;Cybersecurity+Explorer;AI%2FML+Enthusiast" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
 🎓 <b>Computer Science Student</b> &nbsp;|&nbsp;
 💻 <b>Frontend Developer</b> &nbsp;|&nbsp;
 🔐 <b>Cybersecurity Learner</b>
 </p>
 
-<p>
-Cloud-Native • Web Security • Open Source
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=26&pause=1000&color=22c55E&center=true&vCenter=true&width=600&lines=Cloud-+Native;Web+Security;Open+Source" alt="Typing SVG " />
+
 </p>
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=harshakumar25&label=Profile%20Views&color=blue&style=flat" />
-
+</p>
 </div>
 
 ---
@@ -22,9 +27,9 @@ Cloud-Native • Web Security • Open Source
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
+
 <img src="https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux">
-<img src="https://img.shields.io/badge/Kubestellar-Cloud--Native-purple?style=for-the-badge">
+
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -36,6 +41,14 @@ Cloud-Native • Web Security • Open Source
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 
+### DevOps & Clouds
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/Kubestellar-Cloud--Native-purple?style=for-the-badge">
+
+<p>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="380" alt="Developer typing"/>
+</p>
+
 ---
 
 </div>
@@ -45,9 +58,9 @@ Cloud-Native • Web Security • Open Source
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshakumar25&layout=compact&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=harshakumar25&show_icons=true&theme=tokyonight)
-
 </div>
+
+---
 
 ## ⚙️ Technical Skills
 
@@ -134,3 +147,4 @@ Cloud-Native • Web Security • Open Source
 ✨ <i>Learning fundamentals. Building step by step. Contributing consistently.</i> ✨
 
 </div>
+
