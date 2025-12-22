@@ -118,7 +118,7 @@
 - Algorithmic thinking & structured problem solving  
 
 ### ☁️ Cloud-Native & DevOps (Learning)
-- Docker (container basics, Dockerfile, images & containers)  
+- Docker  
 - Intro to cloud-native concepts  
 - Exploring **Kubestellar** for multi-cluster Kubernetes management  
 
@@ -169,7 +169,7 @@
 
 - Cloud-native & Kubernetes ecosystem  
 - Security-focused projects  
-- Beginner-friendly issues & documentation  
+-  issues & documentation  
 - Go-based tooling  
 
 </details>
