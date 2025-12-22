@@ -41,7 +41,6 @@
 <!-- LEFT SIDE : ABOUT ME -->
 <td width="60%" valign="top">
 
-## 👨‍💻 About Me
 
 - 🎓 **B.Tech** in Computer Science & Cybersecurity  
 - 🌍 **Open Source Contributor**   
