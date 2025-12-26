@@ -176,6 +176,8 @@
 
 ---
 
+![GitHub Snake](https://github.com/harshakumar25/harshakumar25/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
