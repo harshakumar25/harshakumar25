@@ -107,15 +107,14 @@
 
 ## ⚙️ Technical Skills
 
-### 🌐 Frontend Development
-- Semantic HTML5 & accessibility expert  
-- Responsive layouts 
-- JavaScript   
-
 ### ☕ Programming & DSA
 - Java   
-- Go (basics, CLI programs)  
-- Algorithmic thinking & structured problem solving  
+- Go
+- Python
+- Node.js
+- Algorithmic thinking & structured problem solving
+- Javascript
+  
 
 ### ☁️ Cloud-Native & DevOps (Learning)
 - Docker  
