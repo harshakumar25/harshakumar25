@@ -110,14 +110,18 @@
 
 ---
 
+
+
+## 📈 Contribution Journey
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshakumar25&theme=react-dark" />
+</p>
+
+
+
 </div>
 
-## 📊 GitHub Stats
-<div align = "center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshakumar25&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
