@@ -69,7 +69,7 @@
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<div width="80%  >
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
 <img src="https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux">
 
