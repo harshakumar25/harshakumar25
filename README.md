@@ -35,6 +35,7 @@
 </p>
 
 ### 🧑🏻‍💻 ABout Me 
+
 <table width="100%" align="center">
 <tr>
 
@@ -69,7 +70,9 @@
 
 ## 🧰 Tech Stack
 
-<div width="80%  >
+
+<div  align="center" >
+  
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
 <img src="https://img.shields.io/badge/Linux-Kali-black?style=for-the-badge&logo=linux">
 
@@ -105,7 +108,13 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-<br> 
+
+![Python](https://c.tenor.com/0XfAByhYlJAAAAAC/python.gif)  
+![JavaScript](https://c.tenor.com/4-7eR1a7o9YAAAAi/javascript.gif)  
+![Go](https://c.tenor.com/UFY81s2JYlYAAAAi/go-programming.gif)
+
+
+</div>
 
 
 ---
