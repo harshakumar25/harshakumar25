@@ -91,6 +91,22 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
 <img src="https://img.shields.io/badge/Kubestellar-Cloud--Native-purple?style=for-the-badge"
 
+<br>
+
+### 🛠️ Tools & Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+### 📊 Data Science & BI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+<br> 
+
 
 ---
 
