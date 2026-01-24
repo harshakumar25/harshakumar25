@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,1,11&height=200&section=header&text=Hello%20World,%20I'm%20Harsh!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" />
+</div>
 <h1 align="center">✨ Hi, I'm Harsh Kumar | Full-Stack Developer ✨</h1>
 
 <p align="center">
