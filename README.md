@@ -22,8 +22,13 @@
 
 ---
 
+</p>
 
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=harshakumar25&label=Profile%20Views&color=blue&style=flat" />
+
+</p>
 
 </div>
 
