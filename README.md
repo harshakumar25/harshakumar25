@@ -12,8 +12,15 @@
 🔐 <b>Cybersecurity Learner</b>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=26&pause=1000&color=22c55E&center=true&vCenter=true&width=600&lines=Cloud+-+Native;Web+Security;Open+Source" alt="Typing SVG " />
+  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%90%88-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Cloud--Native-%E2%98%81%EF%B8%8F-black?style=for-the-badge&logo=kubernetes">
+  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-black?style=for-the-badge&logo=linux">
+</p>
+
+---
 
 </p>
 <p align="center">
@@ -64,8 +71,6 @@
 </td>
 </tr>
 </table>
-
-
 
 
 ## 🧰 Tech Stack
@@ -132,7 +137,6 @@
 
 
 <div align="center">
-```text
 HTML        ██████████ 90%
 CSS         █████████░ 85%
 JavaScript  ████████░░ 75%
