@@ -22,10 +22,9 @@
 
 ---
 
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=harshakumar25&label=Profile%20Views&color=blue&style=flat" />
-</p>
+
+
+
 </div>
 
 ---
@@ -62,11 +61,9 @@
 <!-- RIGHT SIDE : TYPING PERSON -->
 <td width="40%" align="center">
 
-<img 
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
-  width="280"
-  alt="Developer typing"
-/>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Keyboard Cat"/>
+</p>
 
 </td>
 </tr>
