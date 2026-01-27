@@ -160,9 +160,13 @@ Go          █████░░░░░ 50%
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshakumar25&theme=react-dark" />
 </p>
 
+###  Most Used Languages
+<p align="center">
 
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshakumar25&layout=pie&theme=react&hide_border=true&langs_count=6"/>
 </div>
+</p>
 
 ---
 
