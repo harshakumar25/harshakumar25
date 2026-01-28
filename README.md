@@ -195,11 +195,17 @@ Go          █████░░░░░ 50%
 - Node.js
 - Algorithmic thinking & structured problem solving
 - Javascript
+- react
+- redis
+- next.js
+- express.js
+- shell scripting
+- yaml
+- mongoDB
   
 
-### ☁️ Cloud-Native & DevOps (Learning)
+### ☁️ Cloud-Native & DevOps
 - Docker  
-- Intro to cloud-native concepts  
 - Exploring **Kubestellar** for multi-cluster Kubernetes management  
 
 ### 🔐 Cybersecurity
