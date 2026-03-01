@@ -209,9 +209,10 @@ Go          █████░░░░░ 50%
 
 ### 🔐 Cybersecurity
 - Kali Linux toolkits  
-- OWASP ZAP (basic web vulnerability scanning)  
+- OWASP ZAP  
 - Tor network fundamentals  
-- Basic understanding of common web vulnerabilities (XSS, SQL Injection)  
+- Basic understanding of common web vulnerabilities (XSS, SQL Injection)
+- Bug Bounty - 12 bounty earned 
 
 ---
 
@@ -236,7 +237,7 @@ Go          █████░░░░░ 50%
 ## 📂 Projects & Work
 - Java DSA practice repository  
 - Frontend mini projects (HTML/CSS/JS)  
-- Cybersecurity labs & security testing notes  
+- Bug bounty in Word press - 3 times
 - Docker & Go learning experiments  
 
 ---
