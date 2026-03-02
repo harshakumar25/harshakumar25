@@ -11,9 +11,9 @@
 
 
 <p align="center">
-🎓 <b>Computer Science Student</b> &nbsp;|&nbsp;
-💻 <b>Frontend Developer</b> &nbsp;|&nbsp;
-🔐 <b>Cybersecurity Learner</b>
+🎓 <b>Globally Top 4% on THM  | 94% bug resolution accepted </b> &nbsp;|&nbsp;
+💻 <b>Full stack developer</b> &nbsp;|&nbsp;
+🔐 <b>Cybersecurity Learner | Bug hunter </b>
 </p>
 
 ---
