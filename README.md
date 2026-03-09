@@ -74,6 +74,11 @@
 - 🔐 Exploring **Cybersecurity, DevSecOps & Cloud Security**  
 - 🤖 **AI/ML Enthusiast** — interested in intelligent systems   
 - 🤝 Open to **collaboration on open-source & innovative ideas**
+- total bug Bounty - 12 times
+-  Bug bounty in Word press - 1 times
+-  Bug Bounty in Sheer - 3 times
+- bug bounty in superbet   - 3 times
+- Docker & Go learning experiments  
 
 </td>
 
