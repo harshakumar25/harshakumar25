@@ -72,8 +72,7 @@
 - 🎓 **B.Tech** in Computer Science & Cybersecurity  
 - 🌍 **Open Source Contributor**   
 - 🔐 Exploring **Cybersecurity, DevSecOps & Cloud Security**  
-- 🤖 **AI/ML Enthusiast** — interested in intelligent systems  
-- 🚀 Focused on **building real-world projects**, not just tutorials  
+- 🤖 **AI/ML Enthusiast** — interested in intelligent systems   
 - 🤝 Open to **collaboration on open-source & innovative ideas**
 
 </td>
@@ -196,33 +195,16 @@ Go          █████░░░░░ 50%
 
 ---
 
-## ⚙️ Technical Skills
-
-### ☕ Programming & DSA
-- Java   
-- Go
-- Python
-- Node.js
-- Algorithmic thinking & structured problem solving
-- Javascript
-- react
-- redis
-- next.js
-- express.js
-- shell scripting
-- yaml
-- mongoDB
-  
-
 ### ☁️ Cloud-Native & DevOps
 - Docker  
-- Exploring **Kubestellar** for multi-cluster Kubernetes management  
+- Exploring **Kubestellar** for multi-cluster Kubernetes management
+- Docker & Kubernetes ecosystem fundamentals
 
 ### 🔐 Cybersecurity
 - Kali Linux toolkits  
 - OWASP ZAP  
 - Tor network fundamentals  
-- Basic understanding of common web vulnerabilities (XSS, SQL Injection)
+-  web vulnerabilities (XSS, SQL Injection)
 - Bug Bounty - 12 bounty earned 
 
 ---
@@ -240,24 +222,24 @@ Go          █████░░░░░ 50%
 ## 📚 Currently Learning
 - Data Structures & Algorithms in Java  
 - Go for backend & cloud-native development  
-- Docker & Kubernetes ecosystem fundamentals  
-- Open Source contribution workflow  
 
 ---
 
 ## 📂 Projects & Work
 - Java DSA practice repository  
-- Frontend mini projects (HTML/CSS/JS)  
-- Bug bounty in Word press - 3 times
+- neonwarrior
+- web3 based blockchain integrated game.
+- Bug bounty in Word press - 1 times
+- bug bounty in superbet   - 2 times
 - Docker & Go learning experiments  
 
 ---
 
 ## 🎯 Goals
-- Build strong foundations in DSA & Go  
+- Build strong foundations in DSA & DevOps 
 - Gain hands-on experience with containers & cloud-native tools  
-- Contribute to open source (Cloud / Security focused)  
-- Prepare for **GSoC / LFX**
+- Contribute to open source (Cloud / Security focused)
+- Contributing open-source for **GSoC / LFX**
 
 ---
 
