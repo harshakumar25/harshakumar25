@@ -75,9 +75,10 @@
 - 🤖 **AI/ML Enthusiast** — interested in intelligent systems   
 - 🤝 Open to **collaboration on open-source & innovative ideas**
 - total bug Bounty - 12 times
--  Bug bounty in wallet on telegram - 2 times
--  Bug Bounty in Sheer - 3 times
-- bug bounty in superbet   - 3 times
+-  Bug bounty in wallet on telegram - 2 times paid
+-  Bug Bounty in Sheer - 2 times   paid
+-  bug bounty in superbet   - 2 times  paid
+-  bug bounty in MetaMask   - 1 time paid
 - Docker & Go learning experiments  
 
 </td>
@@ -234,15 +235,13 @@ Go          █████░░░░░ 50%
 - Java DSA practice repository  
 - neonwarrior
 - web3 based blockchain integrated game.
-- Bug bounty in Word press - 1 times
-- bug bounty in superbet   - 2 times
 - Docker & Go learning experiments  
 
 ---
 
 ## 🎯 Goals
 - Build strong foundations in DSA & DevOps 
-- Gain hands-on experience with containers & cloud-native tools  
+- Gain hands-on experience with containers & ci/cd cipelines  & cloud-native tools  
 - Contribute to open source (Cloud / Security focused)
 - Contributing open-source for **GSoC / LFX**
 
@@ -253,8 +252,9 @@ Go          █████░░░░░ 50%
 
 - Cloud-native & Kubernetes ecosystem  
 - Security-focused projects  
--  issues & documentation  
-- Go-based tooling  
+-  ci/cd pipelines based 
+- Go-based tooling
+- multi-cluster project based 
 
 </details>
 
