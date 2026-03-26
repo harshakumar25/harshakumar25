@@ -69,18 +69,20 @@
 <td width="60%" valign="top">
 
 
-- 🎓 **B.Tech** in Computer Science & Cybersecurity  
+- 🎓 **B.Tech** in Computer Science & Cybersecurity
+-  Exploring **Devops** & **Devsecops**
 - 🌍 **Open Source Contributor**   
 - 🔐 Exploring **Cybersecurity, DevSecOps & Cloud Security**  
 - 🤖 **AI/ML Enthusiast** — interested in intelligent systems   
 - 🤝 Open to **collaboration on open-source & innovative ideas**
-- total bug Bounty - 13 times
-- hackthebox - 1 time unpaid
--  Bug bounty in wallet on telegram - 2 times paid
--  Bug Bounty in Sheer - 2 times   paid
--  bug bounty in superbet   - 2 times  paid
--  bug bounty in MetaMask   - 1 time paid
-- Docker & Go learning experiments  
+### total bug Bounty - 15 times
+-  Bug bounty in wallet on telegram  - 2 times paid
+-  Bug Bounty in Sheer       - 2 times paid
+-  Bug bounty in superbet    - 2 times paid
+-  Bug bounty in MetaMask    - 1 time paid
+-  Bug bounty in hackthebox  - 1 time unpaid
+-  Bug bounty in Peloton     - most **frequently
+   
 
 </td>
 
