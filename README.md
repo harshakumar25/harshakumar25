@@ -81,7 +81,7 @@
 -  Bug bounty in superbet    - 2 times paid
 -  Bug bounty in MetaMask    - 1 time paid
 -  Bug bounty in hackthebox  - 1 time unpaid
--  Bug bounty in Peloton     - most **frequently
+-  Bug bounty in Peloton     - most **frequently**
    
 
 </td>
