@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=160&section=header&text=Hello%20World,%20I'm%20Harsh!&fontColor=00FF9C&fontSize=42&fontAlignY=35" />
-</p>
-
 
 <h1 align="center">✨ Hi, I'm Harsh Kumar | Full-Stack Developer ✨</h1>
 
