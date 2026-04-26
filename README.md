@@ -214,7 +214,7 @@ Go          █████░░░░░ 50%
 - OWASP ZAP  
 - Tor network fundamentals  
 -  web vulnerabilities (XSS, SQL Injection)
-- Bug Bounty - 12 bounty earned 
+- Bug Bounty - 10 bounty paid earned 
 
 ---
 
@@ -238,7 +238,8 @@ Go          █████░░░░░ 50%
 - Java DSA practice repository  
 - neonwarrior
 - web3 based blockchain integrated game.
-- Docker & Go learning experiments  
+- Docker & Go learning experiments
+- AntreaNetmonitor (live eBPF packetcapture monitor dashboard)
 
 ---
 
