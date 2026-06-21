@@ -7,7 +7,7 @@
 <p align="center">
 🎓 <b>Globally Top 4% on THM  | 94% bug resolution accepted </b> &nbsp;|&nbsp;
 💻 <b>Full stack developer</b> &nbsp;|&nbsp;
-🔐 <b>Cybersecurity Learner | Bug hunter </b>
+🔐 <b>Cybersecurity Learner | Bug hunter | 100 avg repuatation on all most program *hackerone* </b>
 </p>
 
 ---
