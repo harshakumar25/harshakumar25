@@ -69,14 +69,6 @@
 - 🔐 Exploring **Cybersecurity, DevSecOps & Cloud Security**  
 - 🤖 **AI/ML Enthusiast** — interested in intelligent systems   
 - 🤝 Open to **collaboration on open-source & innovative ideas**
-### total bug Bounty - 15 times
--  Bug bounty in wallet on telegram  - 2 times paid
--  Bug Bounty in Sheer       - 2 times paid
--  Bug bounty in superbet    - 2 times paid
--  Bug bounty in MetaMask    - 1 time paid
--  Bug bounty in hackthebox  - 1 time unpaid
--  Bug bounty in Peloton     - most **frequently**
-   
 
 </td>
 
@@ -84,7 +76,7 @@
 <td width="40%" align="center">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Keyboard Cat"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Keyboard Cat"/>
 </p>
 
 </td>
@@ -173,65 +165,6 @@ Go          █████░░░░░ 50%
 </table>
 ---
 
-### ☁️ Cloud-Native & DevOps
-- Docker  
-- Exploring **Kubestellar** for multi-cluster Kubernetes management
-- Docker & Kubernetes ecosystem fundamentals
-
-### 🔐 Cybersecurity
-- Kali Linux toolkits  
-- OWASP ZAP  
-- Tor network fundamentals  
--  web vulnerabilities (XSS, SQL Injection)
-- Bug Bounty - 10 bounty paid earned 
-
----
-
-## 🛠 Development Environment
-- VS Code  
-- Git & GitHub  
-- Linux (Kali Linux)  
-- Docker CLI  
-
----
-## 🧠 Tech Stack & Skills
-
-
-## 📚 Currently Learning
-- Data Structures & Algorithms in Java  
-- Go for backend & cloud-native development  
-
----
-
-## 📂 Projects & Work
-- Java DSA practice repository  
-- neonwarrior
-- web3 based blockchain integrated game.
-- Docker & Go learning experiments
-- AntreaNetmonitor (live eBPF packetcapture monitor dashboard)
-
----
-
-## 🎯 Goals
-- Build strong foundations in DSA & DevOps 
-- Gain hands-on experience with containers & ci/cd cipelines  & cloud-native tools  
-- Contribute to open source (Cloud / Security focused)
-- Contributing open-source for **GSoC / LFX**
-
----
-
-<details>
-<summary><b>📌 Open Source Interests</b></summary>
-
-- Cloud-native & Kubernetes ecosystem  
-- Security-focused projects  
--  ci/cd pipelines based 
-- Go-based tooling
-- multi-cluster project based 
-
-</details>
-
----
 
 ![GitHub Snake](https://github.com/harshakumar25/harshakumar25/blob/output/github-contribution-grid-snake.svg)
 
