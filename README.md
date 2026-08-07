@@ -10,8 +10,6 @@
 💻  &nbsp; </b>
 </p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%90%88-black?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Cloud--Native-%E2%98%81%EF%B8%8F-black?style=for-the-badge&logo=kubernetes">
