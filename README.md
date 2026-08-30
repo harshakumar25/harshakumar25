@@ -1,5 +1,5 @@
 
-<h1 align="center">✨ Hi, I'm Harsh Kumar | Full-Stack Developer ✨</h1>
+<h1 align="center">✨ Hi, I'm Harsh Kumar | BlockChain-Backend Developer  ✨</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Open-+Source+Contributor;Cybersecurity+Explorer;AI%2FML+Enthusiast" alt="Typing SVG" />
