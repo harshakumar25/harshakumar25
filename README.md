@@ -18,13 +18,17 @@
 
 ---
 
+
 </p>
 
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=harshakumar25&label=Profile%20Views&color=blue&style=flat" />
 
+
 </p>
+
+
 
 </div>
 
@@ -58,7 +62,7 @@
 <tr>
 
 <!-- LEFT SIDE : ABOUT ME -->
-<td width="60%" valign="top">
+<td width="33%" valign="top">
 
 
 - 🎓 **B.Tech** in Computer Science & Cybersecurity
@@ -69,9 +73,21 @@
 - 🤝 Open to **collaboration on open-source & innovative ideas**
 
 </td>
+<td width="33%" valign="top">
+
+🏆 Bug Bounty & Security Research
+
+| 🏢 Organization | 🐛 Security Research |
+|---|---|
+| 🟦 **Telegram Wallet** | 1× Bug Bounty |
+| 🛍️ **Shopify** | Bug Bounty |
+| 🎰 **1Win** | Bug Bounty |
+| ☁️ **Twilio** | Bug Bounty |
+
+</td>
 
 <!-- RIGHT SIDE : TYPING PERSON -->
-<td width="40%" align="center">
+<td width="33%" align="center">
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Keyboard Cat"/>
