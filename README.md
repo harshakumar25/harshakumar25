@@ -10,6 +10,7 @@
 💻  &nbsp; </b>
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%90%88-black?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Cloud--Native-%E2%98%81%EF%B8%8F-black?style=for-the-badge&logo=kubernetes">
@@ -65,12 +66,9 @@
 <td width="33%" valign="top">
 
 
-- 🎓 **B.Tech** in Computer Science & Cybersecurity
--  Exploring **Devops** & **Devsecops**
-- 🌍 **Open Source Contributor**   
-- 🔐 Exploring **Cybersecurity, DevSecOps & Cloud Security**  
-- 🤖 **AI/ML Enthusiast** — interested in intelligent systems   
-- 🤝 Open to **collaboration on open-source & innovative ideas**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshakumar25&theme=dark&hide_border=false&include_all_commits=false&count_private=true) 
+
 
 </td>
 <td width="33%" valign="top">
@@ -151,7 +149,6 @@ Linux       ███████░░░ 70%
 Go          █████░░░░░ 50%
 </div>
 ---
-
 
 
 ## 📈 Contribution Journey
