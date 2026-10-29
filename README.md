@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hi, I'm Harsh Kumar | BlockChain-Backend Developer  ✨</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Open-+Source+Contributor;Cybersecurity+Explorer;AI%2FML+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Open-+Source+Contributor;Cybersecurity+Expert;AI%2FML+Engineer" alt="Typing SVG" />
 
 <p align="center">
 🎓 <b>Globally Top 4% on THM  | 94% bug resolution accepted </b> &nbsp;|
