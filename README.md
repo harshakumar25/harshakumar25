@@ -76,9 +76,9 @@
 | 🏢 Organization | 🐛 Security Research |
 |---|---|
 | 🟦 **Telegram Wallet** | 1× Bug Bounty |
-| 🛍️ **Shopify** | Bug Bounty |
-| 🎰 **1Win** | Bug Bounty |
-| ☁️ **Twilio** | Bug Bounty |
+| 🛍️ **Shopify** | BPP |
+| 🎰 **1Win** | BPP|
+| ☁️ **Twilio** | BPP |
 
 </td>
 
